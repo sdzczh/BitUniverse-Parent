@@ -28,7 +28,7 @@
         <beetl.version>2.9.3</beetl.version>
         <swagger.version>2.9.2</swagger.version>
         <ehcache.core.version>2.6.11</ehcache.core.version>
-        <mysql-connector-java.version>8.0.11</mysql-connector-java.version>
+        <mysql-connector-java.version>8.0.16</mysql-connector-java.version>
         <jwt.version>0.9.0</jwt.version>
         <jedis.version>2.7.3</jedis.version>
         <spring-data-redis.version>1.7.1.RELEASE</spring-data-redis.version>
